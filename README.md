@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/708789079042424982?style=plastic)
+![Discord](![Discord](https://img.shields.io/discord/708789079042424982?logo=Discord&style=plastic))
 # Mo-Ram
 Minecraft Modpack for v1.12.2 distributed via www.curseforge.com
 
