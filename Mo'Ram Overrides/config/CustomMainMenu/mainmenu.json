@@ -1,0 +1,201 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : 175,
+            "posY" : 40,
+            "width" : 400,
+            "height" : 400,
+            "alignment" : "center_left"
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : 280,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "center_left"
+        },
+		
+		"background":
+        {
+            "image" : "ebrill2:textures/mainmenu/black_transparent.png",
+            "posX" : 20,
+            "posY" : 0,
+            "width" : 150,
+            "height" : 2000,
+            "alignment" : "center_left"
+        },
+		
+		"logo":
+		{
+			"image" : "ebrill2:textures/mainmenu/black_transparent.png",
+            "posX" : 20,
+            "posY" : 0,
+            "width" : 150,
+            "height" : 100,
+            "alignment" : "center_left"
+		}
+		
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 40,
+            "posY" : -150,
+            "width" : 110,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 40,
+            "posY" : -120,
+            "width" : 110,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+			
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 40,
+            "posY" : -90,
+            "width" : 110,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+			
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 40,
+            "posY" : -60,
+            "width" : 80,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 40,
+            "posY" : -30,
+            "width" : 80,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 130,
+            "posY" : -60,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 130,
+            "posY" : -30,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+			"alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "thanksAndCopyright":
+        {
+            "text" : "Thanks for playing this modpack by Pasarus! \nMinecraft is the sole Copyright of Mojang AB",
+            "posX" : -230,
+            "posY" : 10,
+            "color" : -1,
+            "alignment" : "top_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 175,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 370,
+            "posY" : 60,
+            "color" : -256,
+            "alignment" : "center_left",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "biomesoplenty:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : false
+        }
+    }
+}
