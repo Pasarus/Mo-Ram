@@ -1,8 +1,11 @@
-# Mo-Ram [![Discord][discordShield]][discordLink] [![Curseforge][curseShield]][curseLink]
+# Mo-Ram [![Discord][discordShield]][discordLink]  [![Curseforge][curseShield]][curseLink]
 
 [discordLink]: https://discord.gg/QG9Mv8G
+
 [discordShield]: https://img.shields.io/discord/708789079042424982?logo=Discord&style=plastic
-[curseShield]: https://cf.way2muchnoise.eu/382231.svg
+
+[curseShield]: http://cf.way2muchnoise.eu/382231.svg
+
 [curseLink]: https://www.curseforge.com/minecraft/modpacks/moram
 
 Minecraft Modpack for v1.12.2 distributed via www.curseforge.com
