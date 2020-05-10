@@ -1,4 +1,4 @@
-# Mo-Ram [![Discord][discordShield]][discordLink]  [![Curseforge][curseShield]][curseLink]
+# Mo'RAM [![Discord][discordShield]][discordLink]  [![Curseforge][curseShield]][curseLink]
 
 [discordLink]: https://discord.gg/QG9Mv8G
 
