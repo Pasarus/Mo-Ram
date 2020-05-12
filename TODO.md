@@ -35,3 +35,4 @@ Galacticraft Sensor Glasses should reconize all ores from all mods, except maybe
 
 - Remove Lead Ore (Extra Planets) from spawning
 - Add Lumberjack/treecapitator (quark?)
+- Deal with Astral and Chisel Marble (Pick one)
