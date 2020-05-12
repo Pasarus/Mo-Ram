@@ -32,3 +32,5 @@ Matter Overdrive, Reduce gravitational anomaly spawn rate to half if possible.
 Add mod that adds extra liquids for liquid cows and then disable liquid infinity cows. - PlusTiC is dead, no infinity cows. So done?
 Ensure window size default opening is large enough for main menu to not look awful - Fixed with fixed scalable menu
 Galacticraft Sensor Glasses should reconize all ores from all mods, except maybe draconium?
+
+- Remove Lead Ore (Extra Planets) from spawning
