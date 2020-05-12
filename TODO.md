@@ -33,6 +33,8 @@ Add mod that adds extra liquids for liquid cows and then disable liquid infinity
 Ensure window size default opening is large enough for main menu to not look awful - Fixed with fixed scalable menu
 Galacticraft Sensor Glasses should reconize all ores from all mods, except maybe draconium?
 
+Play test todo:
 - Remove Lead Ore (Extra Planets) from spawning
 - Add Lumberjack/treecapitator (quark?)
 - Deal with Astral and Chisel Marble (Pick one)
+- Aluminum Ore Galacticraft Remove
