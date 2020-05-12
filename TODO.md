@@ -34,3 +34,4 @@ Ensure window size default opening is large enough for main menu to not look awf
 Galacticraft Sensor Glasses should reconize all ores from all mods, except maybe draconium?
 
 - Remove Lead Ore (Extra Planets) from spawning
+- Add Lumberjack/treecapitator (quark?)
