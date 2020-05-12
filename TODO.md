@@ -38,3 +38,4 @@ Play test todo:
 - Add Lumberjack/treecapitator (quark?)
 - Deal with Astral and Chisel Marble (Pick one)
 - Aluminum Ore Galacticraft Remove
+- Remove Ice and Fire Silver Ore
