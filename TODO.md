@@ -39,3 +39,4 @@ Play test todo:
 - Deal with Astral and Chisel Marble (Pick one)
 - Aluminum Ore Galacticraft Remove
 - Remove Ice and Fire Silver Ore
+- Reduce level Wub ore spawns to below 20
