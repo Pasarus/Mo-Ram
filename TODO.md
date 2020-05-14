@@ -40,3 +40,4 @@ Play test todo:
 - Aluminum Ore Galacticraft Remove
 - Remove Ice and Fire Silver Ore
 - Reduce level Wub ore spawns to below 20
+- Remove Headcrumbs causes UncaughtExceptions constantly and spams logs
