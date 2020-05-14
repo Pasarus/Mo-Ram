@@ -41,3 +41,4 @@ Play test todo:
 - Remove Ice and Fire Silver Ore
 - Reduce level Wub ore spawns to below 20
 - Remove Headcrumbs causes UncaughtExceptions constantly and spams logs
+- Add WAYLA/HWYLA addon for energy
