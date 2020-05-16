@@ -44,3 +44,4 @@ Play test todo:
 - Add WAYLA/HWYLA addon for energy
 - Reduce spawn rate of each exotic bird by half
 - Reduce Madusa spawn rate
+- Remove morph ability for Ice and Fire mobs
