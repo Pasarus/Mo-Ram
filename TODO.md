@@ -46,3 +46,4 @@ Play test todo:
 - Reduce Madusa spawn rate
 - Remove morph ability for Ice and Fire mobs
 - Buildcraft Gears not working for Buildcraft machines such as Pump
+- Akashic Tome to Valkyrie Guide causes internal server errors. Crash esque behaviour.
