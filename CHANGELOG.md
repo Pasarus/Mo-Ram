@@ -12,6 +12,7 @@
 - Reduced Wub Ore spawn rate, height, and vein size
 - Reduced Matter Overdrive gravitic anomaly spawn rate to a fifth of default rate
 - The one probe can be fully functional without an actual probe to immitate HWYLA
+- Remove some of the gears that cause issues making Buildcraft items (Such as the Buildcraft ones)
 
 * Mod updates
 - Update Integrated Dynamics to 1.1.6
