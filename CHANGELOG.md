@@ -1,6 +1,6 @@
-**Version 0.3:
+**Version 0.3:**
 
-* Bug fixes and modifications
+*Bug fixes and modifications*
 - Decreased Ice and Fire spawn rate, notably for dragons and medusa monuments 
 - Ice and Fire Dragons can now break some weaker blocks
 - Pushed dangerous Ice and Fire mob spawns to 2000 blocks from spawn
@@ -14,7 +14,7 @@
 - The one probe can be fully functional without an actual probe to immitate HWYLA
 - Remove some of the gears that cause issues making Buildcraft items (Such as the Buildcraft ones)
 
-* Mod updates
+*Mod updates*
 - Update Integrated Dynamics to 1.1.6
 - Update Immersive Engineering to 98
 - Update IChun's Hats mod to 7.1.1
@@ -43,7 +43,7 @@
 - Update Storage Drawers to 5.4.2
 - Update Thaumic Tinkerer to 5.0-620a0c5
 
-* Added/Removed mods
+*Added/Removed mods*
 - Added Energy Converters
 - Added The One probe
 - Removed Headcrumbs due to causing constant issues
