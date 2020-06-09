@@ -6,3 +6,4 @@
 - Akashic Tome to Valkyrie Guide causes internal server errors. Crash esque behaviour.
 - Add all spawnable Ores to Galacticraft Sensor Glasses except draconium and wub
 - Make Nether Ores only NetherEndingOres and Not Quark or Cyclic versions.
+- Stop Pied Piper spawning in the Aether
