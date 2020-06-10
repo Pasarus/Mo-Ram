@@ -1,7 +1,3 @@
-- It's The Little things mod changes
-	- Window Icon to logo
-	- Title of window
-- Main Menu Logo
 - Discord Presence
 - Akashic Tome to Valkyrie Guide causes internal server errors. Crash esque behaviour.
 - Add all spawnable Ores to Galacticraft Sensor Glasses except draconium and wub

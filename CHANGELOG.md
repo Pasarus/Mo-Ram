@@ -1,4 +1,20 @@
-**Version 0.3:**
+**Version 0.3.1:**
+*Bug fixes and modifications*
+- Allowed Platinum and Iridium ore to actually spawn
+- Added modpack logo to main menu
+- Added modpack logo to window
+- Fixed window title name
+
+*Removals*
+- Removed Thaumcraft due to bug with later versions causing issues with memory leaks when none vanilla dimensions are loaded
+- Removed Rustic Thaumaturgy reliant on thaumcraft
+- Removed Thaumic Inventory Scanning reliant on thaumcraft
+- Removed Thaumic JEI reliant on thaumcraft
+- Removed Thaumic Tinkerer reliant on thaumcraft
+- Removed Thaumic Engerstics reliant on thaumcraft
+
+
+**Version 0.3.0:**
 
 *Bug fixes and modifications*
 - Decreased Ice and Fire spawn rate, notably for dragons and medusa monuments 

@@ -33,7 +33,7 @@
 		
 		"logo":
 		{
-			"image" : "ebrill2:textures/mainmenu/black_transparent.png",
+			"image" : "ebrill2:textures/mainmenu/MoRAM_Logo.png",
             "posX" : 20,
             "posY" : 0,
             "width" : 150,
