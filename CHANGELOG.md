@@ -1,3 +1,11 @@
+**Version 0.3.2**
+*Bug fixes and modifications*
+- Remove Avaritia fluxed singularity
+- Stopped Pied Piper and Rats spawning in the Aether because they spawned in massive hordes
+
+*Mod Updates*
+- Downgrade Mystcraft to pre 0.3.0 modpack version to avoid server generation issue.
+
 **Version 0.3.1:**
 *Bug fixes and modifications*
 - Allowed Platinum and Iridium ore to actually spawn
