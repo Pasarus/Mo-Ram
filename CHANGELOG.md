@@ -3,8 +3,8 @@
 - Remove Avaritia fluxed singularity
 - Stopped Pied Piper and Rats spawning in the Aether because they spawned in massive hordes
 
-*Mod Updates*
-- Downgrade Mystcraft to pre 0.3.0 modpack version to avoid server generation issue.
+*Removals*
+- Mystcraft was removed because it is interacting poorly with a newly updated mod when generating worlds
 
 **Version 0.3.1:**
 *Bug fixes and modifications*
